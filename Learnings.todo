@@ -1,0 +1,23 @@
+#Variables
+
+#Data Types?
+    ✔ # String @done(25-04-11 21:53)
+    ✔ # Boolean @done(25-04-11 21:54)
+    ✔ # Integer @done(25-04-11 21:54)
+    ✔ # Float @done(25-04-11 21:54)
+    ✔ # List ["Mimi"] It can store any type of data, and it is mutable @done(25-04-11 21:54)
+    ☐ # Tuple ("Mimi") It can store any type of data, but it is immutable
+    ☐ # Set {"Mimi"} It can store any type of data, and it is mutable, but it does not allow duplicates
+    ☐ # Dictionary {"key": "value"} It can store any type of data, and it is mutable, but it does not allow duplicates for keys
+
+
+#Lists(Methods)
+    Access Elements
+    Add Elements
+    Change Elements
+    Delete Elements
+    Sort Elements
+
+#Tuples(Methods)
+    Access Elements
+    change Elements
